@@ -22,6 +22,7 @@ Daha Sonra programın kurulacağı yolu seçerek next next diyerek devam ediyoru
 Giriş Bilgileri
 --------------------
 Kullanıcı Adı: admin
+
 Şifre: 1234
 
 Destek
