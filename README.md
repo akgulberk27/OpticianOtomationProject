@@ -55,6 +55,7 @@ Then we continue by selecting the path where the program will be installed and s
 Login Information
 --------------------
 User Name: admin
+
 Password: 1234
 
 Support
