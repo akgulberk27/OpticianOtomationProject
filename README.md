@@ -29,38 +29,6 @@ Destek
 ----------
 Projeyi inceleyerek geri bildirimlerde bulunabilir veya sorularınızı GitHub üzerinden iletebilirsiniz.
 
-English
-------------
-# Optician Automation Project
----------
-This project was carried out as a semester project within the scope of the NTP course. You can perform the installation by following the steps below.
-
-Setup
------
-1-Accessing the Database
-
-We open sql --------> Right-click on Databases and call it new database ------> We type automation in the database name section and press OK.
-when the database is selected, we say new query------> we copy the ZenOptikSetup contents inside the database folder we downloaded, paste them into the new query, and we say execute the database process is finished. 
-
-------------------------------------------------------------
-
-2-Setting up the program
-ZenOptik from the Rar folder.run the exe file.
-.
-.
-.
-.
-Then we continue by selecting the path where the program will be installed and saying next next.
-
-Login Information
---------------------
-User Name: admin
-
-Password: 1234
-
-Support
-----------
-You can provide feedback by reviewing the project or submit your questions via GitHub.
 
 ![Ekran görüntüsü 2024-01-28 155137](https://github.com/akgulberk27/OpticianOtomationProject/assets/108866525/8da7044e-dcf3-444c-9da2-b56c947252fa)
 
