@@ -7,7 +7,7 @@ Kurulum
 1-Veritabanına Erişme
 
 Sqli açıyoruz --------> Databases'e sağ tıklayıp new database diyoruz ------> database name kısmına otomasyon yazıyoruz ve OK basıyoruz.
-veritabanı seçiliyken new query diyoruz------>  veritabanı klasörünün içindeki ZenOptikSetup içindekileri kopyalayıp new querye yapıştırıyoruz ve execute diyoruz veritabanı işlemi bitmiş bulunuyor. 
+otomasyon veritabanı seçiliyken new query diyoruz------>  veritabanı klasörünün içindeki ZenOptikSetup içindekileri kopyalayıp new querye yapıştırıyoruz ve execute diyoruz veritabanı işlemi bitmiş bulunuyor. 
 
 ------------------------------------------------------------
 
